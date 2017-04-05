@@ -28,5 +28,16 @@ STEPS TO SUBMIT TO GIT:
 
 1) git init .
 2) git status
-3) git commit -m "Initial commit."
+3) git add -A
+4) git commit -m "Initial commit."
+5) CREATE ON GITHUB
+6) git remote add origin https://github.com/fealho/practice-codes.git
+7) git push -u origin master
 '''
+
+#TO DO: add URL
+#change to python 3
+#use underscore for var
+#dont convert to str, use mod 10
+#make tuple of list LED, since thats immutable
+#LEDperDigit should be global, since I'm recreating it 
